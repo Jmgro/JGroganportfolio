@@ -1,0 +1,23 @@
+{
+	"name": "portfolio",
+	"version": "1.0.0",
+	"description": "## Created and designed with the help of Bootstrap 4, Fontawesome, Google Fonts, Unsplash, and Visual Studio Code Editor (the editor of my choice).",
+	"main": "index.js",
+	"scripts": {
+		"deploy": "gh-pages -d src"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Jmgro/JGroganPortfolio.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/Jmgro/JGroganPortfolio/issues"
+	},
+	"homepage": "https://jmgro.github.io/portfolio",
+	"dependencies": {
+		"gh-pages": "^2.1.1"
+	}
+}

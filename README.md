@@ -1,5 +1,5 @@
 # JGroganPortfolio
-## My Porfolio :  __By Jessie Grogan__
+## My Portfolio :  __By Jessie Grogan__
 
 ## Created and designed with the help of Bootstrap 4, Fontawesome, Google Fonts, Unsplash, and Visual Studio Code Editor (the editor of my choice).
 
