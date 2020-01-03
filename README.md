@@ -1,6 +1,6 @@
 # JGroganportfolio
 Welcome to my Portfolio Website! 
-## :  __By Jessie Grogan__
+###### :  __By Jessie Grogan__
 
 ## Created and designed with the help of Bootstrap 4, Fontawesome, Google Fonts, Unsplash, and Visual Studio Code Editor (the editor of my choice).
 
